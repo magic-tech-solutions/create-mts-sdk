@@ -1,0 +1,3 @@
+[submodule "line-openapi"]
+path = templates/fb-messenger-sdk
+url = git@github.com:magic-tech-solutions/fb-messenger-sdk.git
