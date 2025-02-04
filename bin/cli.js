@@ -7,8 +7,8 @@
  * https://github.com/ljlm0402/typescript-express-starter
  *****************************************************************/
 
-const path = require("path");
-const starter = require("../lib/starter");
+path = require("path");
+starter = require("../lib/starter");
 const destination = getDest(process.argv[2]);
 
 function getDest(destFolder = "create-mts-sdk") {
