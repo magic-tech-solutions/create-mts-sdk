@@ -1,3 +1,4 @@
-[submodule "templates/fb-messenger-sdk"]
-path = templates/fb-messenger-sdk
-url = git@github.com:magic-tech-solutions/fb-messenger-sdk.git
+[submodule "create-mts-sdk"]
+	path = create-mts-sdk
+	url = https://github.com/magic-tech-solutions/create-mts-sdk
+	branch = master
