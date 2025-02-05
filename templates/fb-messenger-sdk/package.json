@@ -1,0 +1,25 @@
+{
+    "name": "fb-messenger-sdk",
+    "module": "index.ts",
+    "type": "module",
+    "version": "0.0.1",
+    "description": "Facebook Messenger SDK for Node.js",
+    "main": "index.js",
+    "scripts": {
+        "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.19.0",
+        "@types/bun": "latest",
+        "eslint": "^9.19.0",
+        "globals": "^15.14.0",
+        "prettier": "3.4.2",
+        "typescript-eslint": "^8.23.0"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "eslint-config-prettier": "^10.0.1"
+    }
+}

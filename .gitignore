@@ -136,4 +136,6 @@ dist
 .pnp.*
 
 pnpm-lock.yaml
-package.json
+package-lock.json
+yarn.lock
+bun.lockb
